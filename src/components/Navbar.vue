@@ -1,11 +1,11 @@
 <template>
     <div id="navs">
-        <nav class="navbar is-primary" role="navigation" aria-label="main navigation">
+        <nav class="navbar is-dark" role="navigation" aria-label="main navigation">
             <div class="container">
             <div class="navbar-brand">
                 <div class="navbar-item">
                     <div class="title">
-                        <router-link to="/" class="has-text-white">UAS</router-link> 
+                        <router-link to="/" class="has-text-white">UAS <img src="../assets/logo.png" alt=""></router-link> 
                     </div>
                 </div>
 
@@ -16,7 +16,7 @@
                 </a>
             </div>
 
-            <div id="navbarBasicExample" class="navbar-menu">
+            <!-- <div id="navbarBasicExample" class="navbar-menu">
                 <div class="navbar-start">
                 <a class="navbar-item">
                     <router-link to="/" class="has-text-white">Home</router-link> 
@@ -33,7 +33,7 @@
                     
                 </div>
                 </div>
-            </div>
+            </div> -->
             </div>
             </nav>
     </div>

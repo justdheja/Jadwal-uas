@@ -23,3 +23,11 @@ export default {
   }
 }
 </script>
+
+<style>
+.card{
+  margin-top: 2vh;
+  margin-bottom: 2vh;
+  padding: 2vh;
+}
+</style>

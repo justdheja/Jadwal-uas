@@ -10,9 +10,9 @@
                 </div>
                 <hr>
                 <div class="heading">
-                    By Justdheja
+                    made with <a href="http://vuejs.org" target="_blank" rel="noopener noreferrer"><img src="../assets/logo.png" alt="" style="width: 2vh;"></a> By Justdheja
                 </div>
-                <a href="http://github.com/justdheja" target="_blank" rel="noopener noreferrer"><h1><i class="fa fa-github"></i></h1></a>
+                <h1><a href="http://github.com/justdheja" target="_blank" rel="noopener noreferrer" class="has-text-black"><i class="fa fa-github"></i></a></h1>
             </div>
         </footer>
     </div>
