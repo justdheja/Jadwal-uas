@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.1d33a4e537bbf8d256c1f2f63b565948.js"
+  "/precache-manifest.d5ce0f62ad592554685eb1e242278a83.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "jadwal-uas"});
